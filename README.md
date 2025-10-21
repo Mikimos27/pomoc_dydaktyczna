@@ -3,5 +3,5 @@ Stworzone pod linuxa
 
 cd \<folder programu\> \
 make\
-./\<nazwa programu>\
+./\<nazwa programu>
 
